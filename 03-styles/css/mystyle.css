@@ -1,0 +1,11 @@
+@import url(reset.css);
+
+body {
+	background-color: lightgrey;
+}
+
+.colored {
+	height: 300px;
+	width: 300px;
+	background-color: red;
+}
