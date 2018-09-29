@@ -1,0 +1,19 @@
+body {
+	background-color: lightgrey;
+}
+
+.block div {
+	height: 20px;
+}
+
+.red div {
+	background-color: red;
+}
+
+.blue div {
+	background-color: blue;
+}
+
+.green div{
+	background-color: green;
+}
